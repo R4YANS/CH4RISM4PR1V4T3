@@ -867,7 +867,7 @@ local watermark = library:Watermark("charisma | beta build")
 
 local main =
     library:Load {
-    Name = "CHARISMA ( made by ryann#0009 ) ",
+    Name = "CHARISMA ( made by ryann#0219 ) ",
     SizeX = 753,
     SizeY = 456,
     Theme = "Default",
